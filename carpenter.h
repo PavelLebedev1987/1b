@@ -3,5 +3,5 @@
 
 class Carpenter {
     // Объявите методы класса здесь
-    double CalcShelves(Wall& wall);
+    int CalcShelves(Wall& wall);
 };
