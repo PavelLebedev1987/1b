@@ -1,5 +1,5 @@
 class Wall {
-public:
+
     enum class Color { BLUE, GREEN, RED, WHITE, YELLOW };
 
     Wall(double width, double height);
